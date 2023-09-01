@@ -1,6 +1,6 @@
 # About Me
 
-![Profile Picture](https://example.com/profile-picture.jpg)
+![Profile Picture](https://imgur.com/a/yTSmOYz)
 
 Hello, I'm Lance, a passionate systems administrator with a strong background in PowerShell scripting. I've been using PowerShell daily in both my professional and personal projects for years. I'm dedicated to creating efficient and powerful solutions that make life easier for myself and others. In this GitHub repository, I aim to share my projects, scripts, and knowledge with the community.
 
