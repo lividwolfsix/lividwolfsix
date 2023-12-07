@@ -1,8 +1,8 @@
 # About Me
 
-<!-- ![Profile Picture](https://i.imgur.com/G4SQkXy.jpg) --!>
+![Profile Picture](https://i.imgur.com/G4SQkXy.jpg)
 
-Hey! My name is Lance and I'm a passionate systems administrator with an interest in various spectrums of technology revolving around Windows, Linux, and Mac. I've been in technology as a working professional for about 20 years. I'm dedicated to finding ways to make my job easier by utilizing languages such as PowerShell, Python, and bash . In this GitHub repository, you can find my projects, scripts, and knowledge with the community.
+Hey! My name is Lance and I'm a passionate systems administrator with an interest in various spectrums of technology revolving around Windows, Linux, and Mac. I've been in technology as a working professional for 15 years. I'm dedicated to finding ways to make my job easier by utilizing languages such as PowerShell, Python, and bash . In this GitHub repository, you can find my projects, scripts, and knowledge with the community. Just like any IT professional, I'm always learning and love challenging myself with new projects.
 
 ## Contact
 
